@@ -11,7 +11,7 @@ CORS(app)
 _ = load_dotenv(find_dotenv())
 
 # Set the API key
-api_key = 'AIzaSyB6_DNSBmUXHLhhbCVkuZ8FI6nvkOm8b-s'
+api_key = ''
 
 # Set the API endpoint
 endpoint = "https://generativelanguage.googleapis.com/v1beta"
